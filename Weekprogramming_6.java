@@ -127,9 +127,9 @@ public class Weekprogramming_6
 	}
 	public static void main(String Args[])
 	{
-		Weekprogramming_6 Phani = new Weekprogramming_6("Phani");
+		Weekprogramming_6 hope = new Weekprogramming_6("hope");
 		Weekprogramming_6 dealer = new Weekprogramming_6("dealer");
-		Phani.winner();
+		hope.winner();
 	}
 
 }
